@@ -1,3 +1,3 @@
-# redux-tutorial
+# react-redux-tutorial
 
-Redux tutorial following youtube.com/watch?v=poQXNp9ItL4
+https://www.youtube.com/watch?v=CVpUuw9XSjY
